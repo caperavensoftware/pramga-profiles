@@ -26,3 +26,7 @@
 /// <reference path="globals/mocha/index.d.ts" />
 /// <reference path="globals/sinon/index.d.ts" />
 /// <reference path="globals/systemjs/index.d.ts" />
+/// <reference path="./../src/interfaces/IProfileActionsManager.ts" />
+/// <reference path="./../src/interfaces/IProfileDomManager.ts" />
+/// <reference path="./../src/interfaces/IProfileManager.ts" />
+/// <reference path="./../src/interfaces/ITabOrders.ts" />
